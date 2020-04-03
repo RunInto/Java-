@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d04c35e1-e7f1-4d44-9a8e-01509780daee" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenRepository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YDE3ALdC91Z2B2v2COUfB4WfUu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.BTreeNode">
+    <configuration name="BTreeNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="树.BTreeNode" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="树.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpressValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="顺序栈.ExpressValue" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="顺序栈.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="队列.LinkQueue" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="队列.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MazeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="链栈.MazeDemo" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="链栈.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeqQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="队列.SeqQueue" />
+      <module name="DataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="队列.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BTreeNode" />
+        <item itemvalue="Application.LinkQueue" />
+        <item itemvalue="Application.SeqQueue" />
+        <item itemvalue="Application.ExpressValue" />
+        <item itemvalue="Application.MazeDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d04c35e1-e7f1-4d44-9a8e-01509780daee" name="Default Changelist" comment="" />
+      <created>1582468562936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582468562936</updated>
+      <workItem from="1582468564207" duration="1751000" />
+      <workItem from="1582546731561" duration="8385000" />
+      <workItem from="1582615186975" duration="3000" />
+      <workItem from="1582618952736" duration="4000" />
+      <workItem from="1582897342177" duration="110000" />
+      <workItem from="1582897462999" duration="578000" />
+      <workItem from="1582898290874" duration="94000" />
+      <workItem from="1582950457814" duration="3074000" />
+      <workItem from="1582954392504" duration="1441000" />
+      <workItem from="1583039199646" duration="6298000" />
+      <workItem from="1583076136697" duration="2714000" />
+      <workItem from="1583412967426" duration="15000" />
+      <workItem from="1583844633188" duration="5763000" />
+      <workItem from="1583897435070" duration="5103000" />
+      <workItem from="1583928964501" duration="1486000" />
+      <workItem from="1584012565080" duration="8369000" />
+      <workItem from="1584095718616" duration="10000" />
+      <workItem from="1584533420912" duration="2262000" />
+      <workItem from="1584580014878" duration="5000" />
+      <workItem from="1584709664608" duration="2531000" />
+      <workItem from="1584835872283" duration="6120000" />
+      <workItem from="1584862909411" duration="1324000" />
+      <workItem from="1585210217411" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1582558032893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582558032893" />
+    <state width="929" height="41" key="GridCell.Tab.0.bottom" timestamp="1583931605790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="929" height="41" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583931605790" />
+    <state width="929" height="41" key="GridCell.Tab.0.center" timestamp="1583931605790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="929" height="41" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583931605790" />
+    <state width="929" height="41" key="GridCell.Tab.0.left" timestamp="1583931605790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="929" height="41" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583931605790" />
+    <state width="929" height="41" key="GridCell.Tab.0.right" timestamp="1583931605790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="929" height="41" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583931605790" />
+    <state width="929" height="555" key="GridCell.Tab.1.bottom" timestamp="1583931605786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="929" height="555" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583931605786" />
+    <state width="929" height="555" key="GridCell.Tab.1.center" timestamp="1583931605786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="929" height="555" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583931605786" />
+    <state width="929" height="555" key="GridCell.Tab.1.left" timestamp="1583931605786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="929" height="555" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583931605786" />
+    <state width="929" height="555" key="GridCell.Tab.1.right" timestamp="1583931605786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="929" height="555" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583931605786" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1584835882159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584835882159" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/顺序栈/StackSeq.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/顺序栈/ExpreeDemo.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="bt.leftChild" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
